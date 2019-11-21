@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dwquery>
+  <queryparams matchcase="true" ignorewhitespace="true" useregexp="false"/>
+  <find>
+    <qtext qname="7824599069" qraw="true"></qtext>
+  </find>
+  <replace action="replaceText" param1="5401904660" param2=""/>
+</dwquery>

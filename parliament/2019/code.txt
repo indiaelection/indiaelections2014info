@@ -1,0 +1,9 @@
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- election2014sideok -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-3410732839869335"
+     data-ad-slot="5401904660"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>

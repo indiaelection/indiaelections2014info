@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<dwquery>
+  <queryparams matchcase="true" ignorewhitespace="true" useregexp="false"/>
+  <find>
+    <qtext qname="&lt;script async custom-element=&quot;amp-auto-ads&quot; src=&quot;https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js&quot;&gt;&lt;/script&gt;
+	  &lt;/head&gt;" qraw="true"></qtext>
+  </find>
+  <replace action="replaceText" param1="  <script async custom-element=&quot;amp-auto-ads&quot; src=&quot;https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js&quot;></script> <script async custom-element=&quot;amp-font&quot; src=&quot;https://cdn.ampproject.org/v0/amp-font-0.1.js&quot;></script>
+<script async custom-element=&quot;amp-carousel&quot; src=&quot;https://cdn.ampproject.org/v0/amp-carousel-0.1.js&quot;></script>
+
+	  </head>" param2=""/>
+</dwquery>
