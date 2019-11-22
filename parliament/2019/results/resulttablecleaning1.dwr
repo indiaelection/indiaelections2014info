@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<dwquery>
+  <queryparams matchcase="true" ignorewhitespace="true" useregexp="false"/>
+  <find>
+    <qtext qname="&lt;tr&gt;
+                                            &lt;td style='width: 100%'&gt;
+                                                &lt;div id='div1' style='border-style: none; table-layout: auto;'&gt;
+                                                    &lt;table class='table-party' cellspacing='0' cellpadding='5' border='1'&gt;
+                                                    &lt;tbody&gt;
+                                                    &lt;tr&gt;" qraw="true"></qtext>
+  </find>
+  <replace action="replaceText" param1=" " param2=""/>
+</dwquery>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<dwquery>
+  <queryparams matchcase="true" ignorewhitespace="true" useregexp="false"/>
+  <find>
+    <qtext qname="&lt;/tr&gt;
+&lt;tr style='height: 20px; background-color:#FFC0CD; color:Black; font-weight: bold'&gt;
+&lt;th colspan='9' align='center'&gt;Results&lt;/th&gt;
+&lt;/tr&gt;" qraw="true"></qtext>
+  </find>
+  <replace action="replaceText" param1=" " param2=""/>
+</dwquery>
