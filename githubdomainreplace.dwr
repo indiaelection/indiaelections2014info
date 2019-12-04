@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dwquery>
+  <queryparams matchcase="true" ignorewhitespace="true" useregexp="false"/>
+  <find>
+    <qtext qname="https://indiaelection.github.io/indiaelections2014info/" qraw="true"></qtext>
+  </find>
+  <replace action="replaceText" param1="https://indiaelection.github.io/indiaelections2014info/" param2=""/>
+</dwquery>
