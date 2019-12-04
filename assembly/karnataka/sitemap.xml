@@ -3,11 +3,11 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url><loc>http://www.indiaelections2014.info/assembly/karnataka/by_election/</loc></url>
-<url><loc>http://www.indiaelections2014.info/assembly/karnataka/by_election/karnataka_assembly_by_election2014_dates.html</loc></url>
-<url><loc>http://www.indiaelections2014.info/assembly/karnataka/by_election/bellary_karnataka_by_election_2014.html</loc></url>
-<url><loc>http://www.indiaelections2014.info/assembly/karnataka/by_election/chikkodi_sadalga_karnataka_by_election_2014.html</loc></url>
-<url><loc>http://www.indiaelections2014.info/assembly/karnataka/by_election/shikaripura_karnataka_by_election_2014.html</loc></url>
+<url><loc>https://indiaelection.github.io/indiaelections2014info/assembly/karnataka/by_election/</loc></url>
+<url><loc>https://indiaelection.github.io/indiaelections2014info/assembly/karnataka/by_election/karnataka_assembly_by_election2014_dates.html</loc></url>
+<url><loc>https://indiaelection.github.io/indiaelections2014info/assembly/karnataka/by_election/bellary_karnataka_by_election_2014.html</loc></url>
+<url><loc>https://indiaelection.github.io/indiaelections2014info/assembly/karnataka/by_election/chikkodi_sadalga_karnataka_by_election_2014.html</loc></url>
+<url><loc>https://indiaelection.github.io/indiaelections2014info/assembly/karnataka/by_election/shikaripura_karnataka_by_election_2014.html</loc></url>
 
 </urlset>
 
